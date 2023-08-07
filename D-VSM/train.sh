@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -u GAT_train.py > ./log/lr_1e-4_k.txt 2>&1 &

@@ -1,0 +1,1 @@
+python train.py --dataset Espgame.mat --end_epochs 100 --nhidden 128 --k 3 --batch_size 16  --gamma 0
